@@ -8,9 +8,9 @@ premier=premier1[,-1]
 
 data <- data.frame(apply(premier, 2, function(x) as.numeric(as.character(x))))
 
-datahome=cbind(data[,2:11],data[23:25])
+datahome=cbind(data[,2:11],data[,23:25])
 
-dataaway=data[13:25]
+dataaway=data[,13:25]
 
 datahome=datahome[,-7]
 dataaway=dataaway[,-7]
