@@ -1,0 +1,690 @@
+HomeTeam;AwayTeam;FTHG;FTAG;FTR;OddsHome;OddsDraw;OddsAway
+Tunisia ; England;1;2;A;8.63;4.24;1.49
+Belgium ; Panama;3;0;H;1.22;6.76;17.68
+Sweden ; South Korea;1;0;H;2.25;3.05;3.89
+Brazil ; Switzerland;1;1;D;1.47;4.4;8.22
+Germany ; Mexico;0;1;A;1.5;4.54;7.38
+Costa Rica ; Serbia;0;1;A;5.28;3.4;1.85
+Croatia ; Nigeria;2;0;H;1.69;3.75;6.01
+Peru ; Denmark;0;1;A;3.63;3.1;2.34
+Argentina ; Iceland;1;1;D;1.33;5.28;11.4
+France ; Australia;2;1;H;1.26;7.13;10.82
+Portugal ; Spain;3;3;D;4.38;3.24;2.04
+Morocco ; Iran;0;1;A;2.22;2.99;4.16
+Egypt ; Uruguay;0;1;A;8.23;4.07;1.52
+Russia ; Saudi Arabia;5;0;H;1.46;4.3;8.98
+France ; Croatia;4;2;H;2.15;3.07;4.22
+Belgium ; England;2;0;H;2.2;3.79;3.24
+Croatia ; England;2;1 ;A;3.88;2.99;2.29
+France ; Belgium;1;0;H;2.61;3.11;3.08
+Russia ; Croatia;2;3 ;A;4.11;3.15;2.13
+Sweden ; England;0;2;A;5.2;3.36;1.86
+Brazil ; Belgium;1;2;A;2.13;3.43;3.75
+Uruguay ; France;0;2;A;4.73;3.08;2.02
+Colombia ; England;1;2 ;A;4.06;3.12;2.16
+Sweden ; Switzerland;1;0;H;3.41;2.94;2.52
+Belgium ; Japan;3;2;H;1.42;4.73;8.92
+Brazil ; Mexico;2;0;H;1.49;4.4;7.64
+Croatia ; Denmark;2;1 ;A;1.97;3.23;4.72
+Spain ; Russia;1;2 ;A;1.59;4.06;6.39
+Uruguay ; Portugal;2;1;H;3.05;2.99;2.75
+France ; Argentina;4;3;H;2.45;3.09;3.35
+England ; Belgium;0;1;A;2.5;2.84;3.6
+Panama ; Tunisia;1;2;A;4.38;3.74;1.86
+Japan ; Poland;0;1;A;2.89;3.1;2.75
+Senegal ; Colombia;0;1;A;5;3.73;1.78
+Serbia ; Brazil;0;2;A;7.44;4.6;1.48
+Switzerland ; Costa Rica;2;2;D;1.6;3.66;7.46
+Mexico ; Sweden;0;3;A;2.24;3.38;3.5
+South Korea ; Germany;2;0;H;19.38;8.13;1.17
+Iceland ; Croatia;1;2;A;4.33;3.96;1.83
+Nigeria ; Argentina;1;2;A;5.92;5.07;1.5
+Australia ; Peru;0;2;A;2.91;3.51;2.5
+Denmark ; France;0;0;D;5.36;2.74;2.08
+Iran ; Portugal;1;1;D;6.23;4.04;1.61
+Spain ; Morocco;2;2;D;1.36;5.05;10.04
+Saudi Arabia ; Egypt;2;1;H;5.25;3.61;1.77
+Uruguay ; Russia;3;0;H;2.76;3.05;2.93
+Poland ; Colombia;0;3;A;3.45;3.44;2.22
+Japan ; Senegal;2;2;D;3.23;2.94;2.63
+England ; Panama;6;1;H;1.22;6.36;18.48
+Germany ; Sweden;2;1;H;1.46;4.63;7.62
+South Korea ; Mexico;1;2;A;5.62;3.81;1.7
+Belgium ; Tunisia;5;2;H;1.33;5.14;11.86
+Serbia ; Switzerland;1;2;A;2.78;3.03;2.96
+Nigeria ; Iceland;2;0;H;2.99;3.06;2.7
+Brazil ; Costa Rica;2;0;H;1.21;6.64;18.75
+Argentina ; Croatia;0;3;A;2.1;3.27;4.09
+France ; Peru;1;0;H;1.61;3.84;6.54
+Denmark ; Australia;1;1;D;1.92;3.4;4.59
+Iran ; Spain;0;1;A;18.8;6.8;1.2
+Uruguay ; Saudi Arabia;1;0;H;1.21;6.72;18.23
+Portugal ; Morocco;1;0;H;1.69;3.71;6.05
+Russia ; Egypt;3;1;H;1.97;3.53;4.28
+Poland ; Senegal;1;2;A;2.49;3.05;3.35
+Colombia ; Japan;1;2;A;1.88;3.34;5.09
+Finland ; Estonia;1;0;H;1.58;3.62;7.21
+Moldova ; Belarus;0;0;D;4.32;3.08;2
+San Marino ; Luxembourg;0;3;A;22.65;7.17;1.15
+Portugal ; Italy;1;0;H;2.25;3.15;3.59
+Sweden ; Turkey;2;3;A;1.93;3.36;4.47
+Montenegro ; Lithuania;2;0;H;1.43;4.08;9.73
+Scotland ; Albania;2;0;H;1.67;3.5;6.17
+Serbia ; Romania;2;2;D;1.5;4.07;7.32
+Andorra ; Kazakhstan;1;1;D;7.18;3.39;1.62
+Kosovo ; Faroe Islands;2;0;H;1.57;3.76;6.69
+Malta ; Azerbaijan;1;1;D;5.45;3.27;1.77
+France ; Netherlands;2;1;H;1.54;4.18;6.8
+Cyprus ; Slovenia;2;1;H;3.71;3.18;2.14
+Liechtenstein ; Gibraltar;2;0;H;1.74;3.37;5.5
+Denmark ; Wales;2;0;H;2.06;3.4;3.75
+Bulgaria ; Norway;1;0;H;3.37;3.21;2.29
+Georgia ; Latvia;1;0;H;1.34;4.52;11.13
+North Macedonia ; Armenia;2;0;H;1.76;3.5;4.9
+Ukraine ; Slovakia;1;0;H;1.89;3.37;4.68
+England ; Spain;1;2;A;2.73;3.12;2.87
+Estonia ; Greece;0;1;A;5.96;3.2;1.77
+Luxembourg ; Moldova;4;0;H;2.29;2.93;3.57
+Switzerland ; Iceland;6;0;H;1.5;4.2;7.66
+Finland ; Hungary;1;0;H;2.44;2.99;3.3
+Belarus ; San Marino;5;0;H;1.04;15.38;42.64
+Northern Ireland ; Bosnia & Herzegovina;1;2;A;3.8;2.95;2.26
+Italy ; Poland;1;1;D;1.56;3.89;6.9
+Turkey ; Russia;1;2;A;1.92;3.45;4.34
+Albania ; Israel;1;0;H;2.78;2.98;2.83
+Lithuania ; Serbia;0;1;A;10.86;4.98;1.33
+Romania ; Montenegro;0;0;D;1.81;3.32;5.23
+Faroe Islands ; Malta;3;1;H;1.63;3.53;6.3
+Azerbaijan ; Kosovo;0;0;D;2.5;2.96;3.11
+Germany ; France;0;0;D;2.35;3.54;3.01
+Czech Republic ; Ukraine;1;2;A;2.77;3.06;2.82
+Wales ; Ireland;4;1;H;1.8;3.23;5.48
+Norway ; Cyprus;2;0;H;1.29;5.23;12.59
+Slovenia ; Bulgaria;1;2;A;2.14;3.02;3.99
+Gibraltar ; North Macedonia;0;2;A;25;9.61;1.1
+Latvia ; Andorra;0;0;D;1.27;4.97;16.11
+Armenia ; Liechtenstein;2;1;H;1.12;8.1;24.16
+Kazakhstan ; Georgia;0;2;A;2.63;2.93;2.94
+France ; Germany;2;1;H;2.06;3.66;3.56
+Ireland ; Wales;0;1;A;2.37;2.9;3.65
+Ukraine ; Czech Republic;1;0;H;1.76;3.58;5.21
+Norway ; Bulgaria;1;0;H;1.63;3.58;6.43
+Slovenia ; Cyprus;1;1;D;1.68;3.68;5.54
+Gibraltar ; Liechtenstein;2;1;H;3.5;2.97;2.33
+Latvia ; Georgia;0;3;A;4.64;3.18;1.93
+Armenia ; North Macedonia;4;0;H;3.01;3.09;2.54
+Kazakhstan ; Andorra;4;0;H;1.27;5.12;14.87
+Iceland ; Switzerland;1;2;A;4.18;3.49;1.94
+Spain ; England;2;3;A;1.63;3.95;5.88
+Bosnia & Herzegovina ; Northern Ireland;2;0;H;1.67;3.47;6.38
+Estonia ; Hungary;3;3;D;5.3;3.43;1.77
+Finland ; Greece;2;0;H;2.85;2.82;2.95
+Belarus ; Moldova;0;0;D;1.59;3.56;7.13
+Luxembourg ; San Marino;3;0;H;1.04;17.92;42.83
+Poland ; Italy;0;1;A;3.42;3.33;2.24
+Israel ; Albania;2;0;H;1.79;3.49;4.9
+Lithuania ; Montenegro;1;4;A;3.99;2.99;2.17
+Russia ; Turkey;2;0;H;2.23;3.22;3.5
+Azerbaijan ; Malta;1;1;D;1.28;5.03;13.53
+Faroe Islands ; Kosovo;1;1;D;5.02;3.45;1.79
+Romania ; Serbia;0;0;D;3.3;3.16;2.33
+Netherlands ; Germany;3;0;H;3.37;3.55;2.19
+Ireland ; Denmark;0;0;D;3.43;3.02;2.39
+Bulgaria ; Cyprus;2;1;H;1.69;3.45;6.07
+North Macedonia ; Liechtenstein;4;1;H;1.14;8.02;22.81
+Norway ; Slovenia;1;0;H;1.56;3.91;6.68
+Armenia ; Gibraltar;0;1;A;1.08;11.3;30.73
+Georgia ; Andorra;3;0;H;1.16;6.53;28.29
+Latvia ; Kazakhstan;1;1;D;3.32;2.96;2.42
+Slovakia ; Czech Republic;1;2;A;2.07;3.36;3.82
+Belgium ; Switzerland;2;1;H;1.58;4.05;6.17
+Croatia ; England ;0;0;D;2.79;3.04;2.84
+Austria ; Northern Ireland;1;0;H;1.58;3.69;7.05
+Estonia ; Finland;0;1;A;4.26;3.03;2.09
+Greece ; Hungary;1;0;H;1.78;3.37;5.24
+Belarus ; Luxembourg;1;0;H;1.66;3.58;5.92
+Moldova ; San Marino;2;0;H;1.06;12.29;41.74
+Russia ; Sweden;0;0;D;2.34;3.15;3.39
+Poland ; Portugal;2;3;A;2.97;3.08;2.64
+Israel ; Scotland;2;1;H;3.07;3.08;2.53
+Lithuania ; Romania;1;2;A;6.44;3.48;1.66
+Montenegro ; Serbia;0;2;A;3.85;3.4;2.03
+Faroe Islands ; Azerbaijan;0;3;A;3;2.93;2.67
+Kosovo ; Malta;3;1;H;1.18;6.49;21.64
+Iceland ; Belgium;0;3;A;9.17;5.1;1.36
+Spain ; Croatia;6;0;H;1.63;3.81;6.16
+Bosnia & Herzegovina ; Austria;1;0;H;2.85;3.21;2.64
+Hungary ; Greece ;2;1;H;3.21;2.88;2.56
+Portugal ; Netherlands;1;0;H;2.33;3.36;3.25
+Switzerland ; England ;0;1 ;A;3.8;3.59;2.01
+Netherlands ; England ;3;1 ;A;3.13;3.23;2.42
+Portugal ; Switzerland;3;1;H;1.78;3.56;5.05
+Portugal ; Poland;1;1;D;1.61;3.75;6.43
+Sweden ; Russia;2;0;H;2;3.28;4.37
+Montenegro ; Romania;0;1;A;3.04;3.01;2.59
+Scotland ; Israel;3;2;H;1.79;3.56;4.93
+Serbia ; Lithuania;4;1;H;1.08;11.01;34.02
+Kosovo ; Azerbaijan;4;0;H;1.86;3.32;4.7
+Malta ; Faroe Islands;1;1;D;3.71;2.97;2.25
+Germany ; Netherlands;2;2;D;1.91;3.89;3.86
+Czech Republic ; Slovakia;1;0;H;2.18;3.51;3.43
+Denmark ; Ireland;0;0;D;1.66;3.48;6.69
+Bulgaria ; Slovenia;1;1;D;1.76;3.44;5.44
+Cyprus ; Norway;0;2;A;6.96;4.11;1.52
+Liechtenstein ; Armenia;2;2;D;10.91;5.5;1.28
+North Macedonia ; Gibraltar;4;0;H;1.06;11.78;36.62
+Andorra ; Latvia;0;0;D;3.9;2.78;2.3
+Georgia ; Kazakhstan;2;1;H;1.74;3.4;5.45
+Switzerland ; Belgium;5;2;H;3.22;3.36;2.34
+Greece ; Estonia;0;1;A;1.34;4.68;11.48
+Hungary ; Finland;2;0;H;2.11;3.12;3.96
+Northern Ireland ; Austria;1;2;A;3.49;3.12;2.32
+Moldova ; Luxembourg;1;1;D;2.22;3.1;3.63
+San Marino ; Belarus;0;2;A;40.29;11.02;1.06
+England ; Croatia;2;1;H;1.75;4.07;4.57
+Italy ; Portugal;0;0;D;2.06;3.42;3.88
+Albania ; Scotland;0;4;A;3.23;3.01;2.48
+Romania ; Lithuania;3;0;H;1.25;5.47;16.45
+Turkey ; Sweden;0;1;A;2.25;3.35;3.44
+Azerbaijan ; Faroe Islands;2;0;H;1.5;4.06;7.3
+Malta ; Kosovo;0;5;A;9.07;4.7;1.38
+Serbia ; Montenegro;2;1;H;1.37;4.81;9.52
+Netherlands ; France;2;0;H;2.93;3.25;2.54
+Slovakia ; Ukraine;4;1;H;2.38;3.11;3.34
+Wales ; Denmark;1;2;A;2.84;3.03;2.77
+Cyprus ; Bulgaria;1;1;D;3.2;3.13;2.41
+Slovenia ; Norway;1;1;D;3.84;3.09;2.18
+Gibraltar ; Armenia;2;6;A;12.05;5.78;1.26
+Liechtenstein ; North Macedonia;0;2;A;12.43;5.76;1.25
+Belgium ; Iceland;2;0;H;1.14;8.56;20.08
+Croatia ; Spain;3;2;H;3.82;3.45;2.05
+Austria ; Bosnia & Herzegovina;0;0;D;1.91;3.46;4.37
+Greece ; Finland;1;0;H;2.09;3.07;4.13
+Hungary ; Estonia;2;0;H;1.43;4.32;8.62
+Andorra ; Georgia;1;1;D;10.25;4.07;1.41
+Luxembourg ; Belarus;0;2;A;3.2;3.04;2.44
+San Marino ; Moldova;0;1;A;18.71;6.3;1.19
+Kazakhstan ; Latvia;1;1;D;1.5;3.93;7.62
+Netherlands ; Poland ;1;0;H;1.5;4.25;7.12
+Lithuania ; Kazakhstan ;0;2;A;3.8;3.02;2.18
+Germany ; Spain ;1;1;D;2.33;3.53;3.05
+Ukraine ; Switzerland ;2;1;H;2.51;3.16;3
+Bulgaria ; Ireland ;1;1;D;4.03;3.09;2.08
+Finland ; Wales ;0;1;A;3.68;3.06;2.21
+Russia ; Serbia ;3;1;H;2.09;3.3;3.71
+Turkey ; Hungary ;0;1;A;1.8;3.36;5.12
+Moldova ; Kosovo ;1;1;D;10.05;4.3;1.39
+Slovenia ; Greece ;0;0;D;3.12;2.94;2.54
+Faroe Islands ; Malta ;3;2;H;1.6;3.6;6.47
+Latvia ; Andorra ;0;0;D;1.53;3.57;8.15
+Kazakhstan ; Albania ;0;0;D;3.49;3.04;2.3
+Spain ; Switzerland ;1;0;H;1.45;4.52;7.24
+Ukraine ; Germany ;1;2;A;7.86;5.53;1.35
+Andorra ; Malta ;0;0;D;3.51;2.69;2.5
+Faroe Islands ; Latvia ;1;1;D;2.41;2.92;3.38
+Liechtenstein ; Gibraltar ;0;1;A;1.66;3.58;5.8
+Luxembourg ; Cyprus ;2;0;H;1.98;3.31;4.14
+Montenegro ; Azerbaijan ;2;0;H;1.83;3.29;5.23
+Belgium ; Iceland ;5;1;H;1.17;7.47;16.06
+Denmark ; England ;0;0;D;3.73;3.23;2.14
+France ; Croatia ;4;2;H;1.7;3.62;5.33
+Sweden ; Portugal ;0;2;A;5.52;3.81;1.66
+Cyprus ; Azerbaijan ;0;1;A;2.36;2.92;3.49
+Luxembourg ; Montenegro ;0;1;A;3.29;3.11;2.34
+San Marino ; Liechtenstein ;0;2;A;6.97;3.42;1.6
+Armenia ; Estonia ;2;0;H;1.73;3.44;5.41
+Georgia ; North Macedonia ;1;1;D;2.88;2.93;2.73
+Bosnia & Herzegovina ; Poland ;1;2;A;3.76;3.08;2.17
+Netherlands ; Italy ;0;1;A;2.38;3.22;3.15
+Austria ; Romania ;2;3;A;1.6;3.79;6.09
+Czech Republic ; Scotland ;1;2;A;4.24;3.56;1.8
+Israel ; Slovakia ;1;1;D;1.89;3.55;4.13
+Northern Ireland ; Norway ;1;5;A;4.37;3.1;1.99
+Albania ; Lithuania ;0;1;A;1.41;4.35;8.65
+Kazakhstan ; Belarus ;1;2;A;3.06;2.91;2.6
+Spain ; Ukraine ;4;0;H;1.37;4.94;8.41
+Switzerland ; Germany ;1;1;D;4.43;3.8;1.77
+Serbia ; Turkey ;0;0;D;1.94;3.43;4.1
+Kosovo ; Greece ;1;2;A;3.45;3.08;2.27
+Malta ; Latvia ;1;1;D;3.55;3;2.25
+Hungary ; Russia ;2;3;A;3.92;3.32;2.02
+Ireland ; Finland ;0;1;A;1.76;3.31;5.6
+Slovenia ; Moldova ;1;0;H;1.45;4.01;8.94
+Wales ; Bulgaria ;1;0;H;1.6;3.62;6.74
+Andorra ; Faroe Islands ;0;1;A;4.1;2.96;2.1
+Denmark ; Belgium ;0;2;A;3.05;3.3;2.4
+Portugal ; Croatia ;4;1;H;1.8;3.57;4.73
+Sweden ; France ;0;1;A;5.14;3.47;1.76
+Iceland ; England ;0;1;A;11.61;5.26;1.3
+Azerbaijan ; Luxembourg ;1;2;A;2.35;2.92;3.5
+Cyprus ; Montenegro ;0;2;A;3.45;3.04;2.29
+Estonia ; Georgia ;0;1;A;5.74;3.33;1.74
+North Macedonia ; Armenia ;2;1;H;1.5;4.08;7.15
+Gibraltar ; San Marino ;1;0;H;1.5;3.79;7.68
+Italy ; Bosnia & Herzegovina ;1;1;D;1.32;5.34;9.69
+Norway ; Austria ;1;2;A;2.51;3.15;2.97
+Romania ; Northern Ireland ;1;1;D;2.08;3.17;3.9
+Scotland ; Israel ;1;1;D;2.03;3.3;3.87
+Slovakia ; Czech Republic ;1;3;A;3;3.21;2.46
+Belarus ; Albania ;0;2;A;2.91;2.97;2.68
+Azerbaijan ; Montenegro ;0;0;D;3.89;3.01;2.19
+Cyprus ; Luxembourg;2;1;H;3.19;3.24;2.36
+Malta ; Andorra ;3;1;H;1.65;3.24;7.31
+San Marino ; Gibraltar ;0;0;D;5.35;3.06;1.86
+Croatia ; France ;1;2;A;3.8;3.49;2.02
+England ; Denmark ;0;1;A;1.87;3.39;4.7
+Iceland ; Belgium ;1;2;A;10.71;5.47;1.3
+Italy ; Netherlands ;1;1;D;1.99;3.33;4.11
+Poland ; Bosnia & Herzegovina ;3;0;H;1.9;3.44;4.39
+Portugal ; Sweden ;3;0;H;1.51;4;7.16
+Bulgaria ; Wales ;0;1;A;3.76;2.83;2.34
+Norway ; Northern Ireland ;1;0;H;1.37;4.84;9.23
+Romania ; Austria ;0;1;A;4.67;3.47;1.85
+Russia ; Hungary ;0;0;D;1.44;4.58;7.53
+Scotland ; Czech Republic ;1;0;H;3.59;3.21;2.19
+Slovakia ; Israel ;2;3;A;2.96;3.28;2.47
+Turkey ; Serbia ;2;2;D;2.68;3.23;2.76
+Belarus ; Kazakhstan ;2;0;H;1.94;3.11;4.67
+Estonia ; Armenia ;1;1;D;3.99;3.22;2.06
+Greece ; Kosovo ;0;0;D;1.61;3.66;6.28
+Moldova ; Slovenia ;0;4;A;8.27;3.6;1.53
+North Macedonia ; Georgia ;1;1;D;2.53;2.96;3.16
+Finland ; Ireland ;1;0;H;2.69;2.84;3.11
+Lithuania ; Albania ;0;0;D;4.6;3.09;1.96
+Germany ; Switzerland ;3;3;D;1.46;4.69;6.64
+Ukraine ; Spain ;1;0;H;9.33;5.46;1.32
+Montenegro ; Luxembourg ;1;2;A;1.91;3.36;4.45
+Faroe Islands ; Andorra ;2;0;H;1.42;3.87;10.96
+Liechtenstein ; San Marino ;0;0;D;1.21;5.44;21.6
+Azerbaijan ; Cyprus ;0;0;D;2.55;2.84;3.3
+Latvia ; Malta ;0;1;A;1.65;3.53;6.34
+France ; Portugal ;0;0;D;2.22;3.29;3.49
+Iceland ; Denmark ;0;3;A;5.47;3.76;1.69
+Poland ; Italy ;0;0;D;4.5;3.5;1.86
+Israel ; Czech Republic ;1;2;A;3.52;3.44;2.09
+Northern Ireland ; Austria ;0;1;A;5.86;3.61;1.68
+Russia ; Turkey ;1;1;D;1.95;3.51;4.04
+Scotland ; Slovakia ;1;0;H;1.9;3.43;4.38
+Serbia ; Hungary ;0;1;A;1.62;3.79;6.22
+Greece ; Moldova ;2;0;H;1.22;6.02;16.43
+Kosovo ; Slovenia ;0;1;A;3.1;2.9;2.61
+Bosnia & Herzegovina ; Netherlands ;0;0;D;7.23;4.27;1.49
+Croatia ; Sweden ;2;1;H;1.97;3.42;4.06
+England ; Belgium ;2;1;H;2.38;3.3;3.11
+Finland ; Bulgaria ;2;0;H;1.71;3.53;5.58
+Norway ; Romania ;4;0;H;1.7;3.69;5.33
+Armenia ; Georgia ;2;2;D;3.16;3.04;2.46
+Estonia ; North Macedonia ;3;3;D;5.01;3.33;1.82
+Lithuania ; Belarus ;2;2;D;3.15;2.96;2.54
+Ireland ; Wales ;0;0;D;2.93;2.76;2.88
+Belgium ; Denmark ;4;2;H;1.76;3.64;4.98
+Bosnia & Herzegovina ; Italy ;0;2;A;10.27;5.5;1.31
+England ; Iceland ;4;0;H;1.15;8.38;18.11
+Poland ; Netherlands ;1;2;A;3.27;3.63;2.17
+Austria ; Norway ;1;1;D;1.3;5.54;9.45
+Czech Republic ; Slovakia ;2;0;H;1.48;4.43;6.74
+Hungary ; Turkey ;2;0;H;3.61;3.51;2.07
+Ireland ; Bulgaria ;0;0;D;1.8;3.34;5.21
+Israel ; Scotland ;1;0;H;3.07;3.23;2.43
+Northern Ireland ; Romania ;1;1;D;2.68;3.1;2.87
+Serbia ; Russia ;5;0;H;2.9;3.44;2.44
+Wales ; Finland ;3;1;H;2.06;3.14;4.13
+Greece ; Slovenia ;0;0;D;2.03;3.14;4.15
+Kosovo ; Moldova ;1;0;H;1.47;4.03;8.1
+Armenia ; North Macedonia ;1;0;H;3.4;3.28;2.21
+Georgia ; Estonia ;0;0;D;1.55;3.9;6.72
+Albania ; Belarus ;3;2;H;1.77;3.53;4.97
+Kazakhstan ; Lithuania ;1;2;A;2.02;3.27;4.02
+Croatia ; Portugal ;2;3;A;4.23;3.82;1.84
+France ; Sweden ;4;2;H;1.55;4.08;6.56
+Spain ; Germany ;6;0;H;2.35;3.71;2.89
+Luxembourg ; Azerbaijan;0;0;D;2.16;3.06;3.87
+Montenegro ; Cyprus;4;0;H;1.76;3.47;5.28
+Andorra ; Latvia ;0;5;A;6.25;3.17;1.74
+Gibraltar ; Liechtenstein ;1;1;D;2.65;2.96;2.98
+Malta ; Faroe Islands ;1;1;D;2.75;3.1;2.74
+Belgium ; England ;2;0;H;2.18;3.39;3.45
+Denmark ; Iceland ;2;1;H;1.31;5.34;10.5
+Italy ; Poland ;2;0;H;1.66;3.75;5.77
+Austria ; Northern Ireland;2;1;H;1.22;5.97;15.86
+Czech Republic ; Israel;1;0;H;1.76;3.77;4.62
+Hungary ; Serbia;1;1;D;3.72;3.26;2.12
+Moldova ; Greece;0;2;A;10.41;4.27;1.39
+Slovenia ; Kosovo;2;1;H;1.72;3.33;5.99
+Netherlands ; Bosnia & Herzegovina ;3;1;H;1.33;5.28;9.78
+Bulgaria ; Finland;1;2;A;3.85;3.09;2.16
+Turkey ; Russia;3;2;H;2.43;3.24;3.09
+Wales ; Ireland;1;0;H;2.21;2.88;4.05
+Albania ; Kazakhstan;3;1;H;1.7;3.32;6.16
+Belarus ; Lithuania;2;0;H;1.75;3.4;5.43
+Georgia ; Armenia;1;2;A;1.88;3.34;4.58
+Slovakia ; Scotland;1;0;H;2.82;3.04;2.76
+North Macedonia ; Estonia;2;1;H;1.68;3.57;5.69
+Germany ; Ukraine ;3;1;H;1.26;6.37;10.3
+Portugal ; France ;0;1;A;2.23;3.29;3.46
+Sweden ; Croatia ;2;1;H;2.68;3.29;2.73
+Switzerland ; Spain ;1;1;D;3.98;3.5;2
+Latvia ; Faroe Islands ;1;1;D;2.23;3.06;3.65
+England ; Czech Republic;5;0;H;1.31;5.14;11.71
+Bulgaria ; Montenegro;1;1;D;2.19;3.19;3.67
+Austria ; Poland;0;1;A;2.44;3.17;3.18
+Belgium ; Russia;3;1;H;1.42;4.64;7.87
+Croatia ; Azerbaijan;2;1;H;1.11;9.45;28.55
+Israel ; Slovenia;1;1;D;2.15;3.28;3.67
+Netherlands ; Belarus;4;0;H;1.13;8.47;20.2
+North Macedonia ; Latvia;3;1;H;1.39;4.42;9.95
+Northern Ireland ; Estonia;2;0;H;1.41;4.29;9.92
+Slovakia ; Hungary;2;0;H;1.97;3.27;4.34
+Cyprus ; San Marino;5;0;H;1.06;12.97;36.63
+Kazakhstan ; Scotland;3;0;H;3.97;3.15;2.12
+Austria ; Slovenia;1;0;H;1.72;3.56;5.46
+Czech Republic ; Bulgaria;2;1;H;1.59;3.86;6.41
+Denmark ; Ireland;1;1;D;1.56;3.73;7.48
+Faroe Islands ; Spain;1;4;A;55.08;19.16;1.03
+Latvia ; Israel;0;3;A;6.76;4.03;1.55
+Lithuania ; Luxembourg;1;1;D;2.88;3.07;2.69
+Montenegro ; Kosovo ;1;1;D;2.63;3.1;2.9
+North Macedonia ; Poland;0;1;A;4.37;3.31;1.94
+Norway ; Romania;2;2;D;1.8;3.55;5
+Sweden ; Malta;3;0;H;1.03;19.7;56.12
+Ukraine ; Serbia;5;0;H;2.73;3.13;2.79
+Georgia ; Gibraltar;3;0;H;1.08;12.18;30.52
+Bosnia & Herzegovina ; Greece;2;2;D;1.9;3.3;4.58
+Ireland ; Georgia;1;0;H;1.74;3.31;5.89
+Italy ; Liechtenstein;6;0;H;1.01;28.47;75.14
+Malta ; Spain;0;2;A;57.53;25.67;1.02
+Norway ; Sweden;3;3;D;2.42;3.12;3.23
+Romania ; Faroe Islands;4;1;H;1.17;6.96;19.38
+Switzerland ; Denmark;3;3;D;2.26;3.13;3.53
+Armenia ; Finland;0;2;A;3.18;3.11;2.44
+Andorra ; Albania;0;3;A;8.18;3.8;1.51
+France ; Iceland;4;0;H;1.17;7.29;18.53
+Kosovo ; Bulgaria;1;1;D;2.31;3.17;3.33
+Luxembourg ; Ukraine;1;2;A;8.44;4.44;1.42
+Montenegro ; England;1;5;A;8.98;4.77;1.38
+Portugal ; Serbia;1;1;D;1.53;4.2;6.76
+Turkey ; Moldova;4;0;H;1.18;6.79;18.2
+Cyprus ; Belgium;0;2;A;20.24;8.53;1.13
+Netherlands ; Germany;2;3;A;2.35;3.58;2.97
+Northern Ireland ; Belarus;2;1;H;1.82;3.18;5.4
+Poland ; Latvia;2;0;H;1.08;11.03;31.07
+Slovenia ; North Macedonia;1;1;D;1.87;3.3;4.79
+Hungary ; Croatia;2;1;H;5.96;3.71;1.64
+Israel ; Austria;4;2;H;3.25;3.22;2.35
+San Marino ; Scotland;0;2;A;41.44;19.78;1.03
+Kazakhstan ; Russia;0;4;A;4.56;3.41;1.88
+Wales ; Slovakia;1;0;H;2.03;3.21;4.18
+Bosnia & Herzegovina ; Armenia;2;1;H;1.36;4.9;9.24
+Italy ; Finland;2;0;H;1.26;5.47;14.14
+Liechtenstein ; Greece;0;2;A;19.04;7.12;1.16
+Spain ; Norway;2;1;H;1.23;6.17;14.61
+Gibraltar ; Ireland;0;1;A;38.62;17.55;1.04
+Malta ; Faroe Islands;2;1;H;3.54;3.05;2.3
+Sweden ; Romania;2;1;H;1.82;3.42;5.15
+Georgia ; Switzerland;0;2;A;5.67;3.74;1.67
+Albania ; Turkey;0;2;A;4.09;3.24;2.06
+Andorra ; Iceland;0;2;A;13.75;5.9;1.25
+Luxembourg ; Lithuania;2;1;H;2.12;3.15;3.86
+Moldova ; France;1;4;A;43.91;11.47;1.07
+Portugal ; Ukraine;0;0;D;1.4;4.58;9.1
+Germany ; Netherlands;2;4;A;1.84;3.88;4.25
+Cyprus ; Kazakhstan;1;1;D;2.2;3.2;3.71
+Estonia ; Belarus;1;2;A;3.29;3;2.48
+Bosnia & Herzegovina ; Liechtenstein;5;0;H;1.02;20.38;57.35
+Faroe Islands ; Sweden;0;4;A;13.87;6.44;1.23
+Finland ; Greece;1;0;H;2.19;3.05;3.97
+Gibraltar ; Denmark;0;6;A;60.45;21.37;1.02
+Ireland ; Switzerland;1;1;D;3.94;3.09;2.17
+Israel ; North Macedonia;1;1;D;1.79;3.57;5.04
+Norway ; Malta;2;0;H;1.04;15.47;52.88
+Romania ; Spain;1;2;A;8.21;4.79;1.42
+Armenia ; Italy;1;3;A;12.12;5.87;1.27
+Albania ; Moldova;2;0;H;1.48;3.99;8.43
+Andorra ; France;0;4;A;69.28;23.95;1.01
+Belarus ; Northern Ireland;0;1;A;2.95;2.97;2.73
+Belgium ; Scotland;3;0;H;1.15;8.13;19.94
+Germany ; Estonia;8;0;H;1.01;24.59;66.41
+Greece ; Armenia;2;3;A;1.51;4.02;7.31
+Hungary ; Wales;1;0;H;3.01;3.09;2.55
+Iceland ; Turkey;2;1;H;2.98;3.17;2.56
+Italy ; Bosnia & Herzegovina;2;1;H;1.33;5.09;10.61
+Liechtenstein ; Finland;0;2;A;27;9.45;1.11
+Russia ; Cyprus;1;0;H;1.19;6.79;16.6
+Azerbaijan ; Slovakia;1;5;A;5.47;3.69;1.7
+Kazakhstan ; San Marino;4;0;H;1.02;20.2;67.28
+Bulgaria ; Kosovo;2;3;A;2.42;3.17;3.22
+Czech Republic ; Montenegro;3;0;H;1.4;4.76;8.7
+Denmark ; Georgia;5;1;H;1.23;6.09;15.31
+Faroe Islands ; Norway;0;2;A;11.01;5.31;1.31
+Ireland ; Gibraltar;2;0;H;1.02;20.09;64.67
+Latvia ; Slovenia;0;5;A;7.33;3.89;1.54
+Malta ; Romania;0;4;A;14.35;6.38;1.22
+North Macedonia ; Austria;1;4;A;3.49;3.15;2.29
+Poland ; Israel;4;0;H;1.53;4.17;6.58
+Serbia ; Lithuania ;4;1;H;1.14;8.46;22.04
+Spain ; Sweden;3;0;H;1.3;5.57;11.42
+Ukraine ; Luxembourg;1;0;H;1.12;9.2;25.3
+Belarus ; Germany;0;2;A;16.31;8.08;1.17
+Belgium ; Kazakhstan;3;0;H;1.03;19.25;56.81
+Greece ; Italy;0;3;A;5.79;3.33;1.75
+Scotland ; Cyprus;2;1;H;1.34;4.96;10.72
+Turkey ; France;2;0;H;5.68;3.92;1.63
+Armenia ; Liechtenstein;3;0;H;1.14;8.32;20.29
+Azerbaijan ; Hungary;1;3;A;4.03;3.13;2.08
+Estonia ; Northern Ireland;1;2;A;5.14;3.1;1.89
+Finland ; Bosnia & Herzegovina;2;0;H;2.59;3.05;3.07
+Moldova ; Andorra;1;0;H;1.48;3.88;9.07
+Russia ; San Marino;9;0;H;1.01;30.75;61.31
+Croatia ; Wales;2;1;H;1.7;3.56;5.7
+Iceland ; Albania;1;0;H;1.78;3.34;5.52
+Czech Republic ; England;2;1;H;4.75;3.79;1.78
+Turkey ; Albania;1;0;H;1.45;4.43;8.06
+Austria ; Israel;3;1;H;1.44;4.99;7.08
+Belgium ; San Marino;9;0;H;1;38.91;100.38
+Croatia ; Hungary;3;0;H;1.39;4.84;8.6
+Latvia ; Poland;0;3;A;17.3;7.49;1.17
+Netherlands ; Northern Ireland;3;1;H;1.18;7.46;16.89
+North Macedonia ; Slovenia;2;1;H;3.13;3.2;2.44
+Russia ; Scotland;4;0;H;1.43;4.53;8.53
+Slovakia ; Wales;1;1;D;2.54;3.15;3.07
+Belarus ; Estonia;0;0;D;1.47;4.26;7.9
+Kazakhstan ; Cyprus;1;2;A;2.24;3.15;3.56
+Albania ; Iceland;4;2;H;3.08;3.08;2.57
+England ; Kosovo;5;3;H;1.14;8.64;19.64
+France ; Andorra;3;0;H;1.01;36.15;99.84
+Lithuania ; Portugal;1;5;A;33.17;10.43;1.09
+Luxembourg ; Serbia;1;3;A;8.95;5.04;1.36
+Moldova ; Turkey;0;4;A;15;5.76;1.25
+Montenegro ; Czech Republic;0;3;A;3.89;3.57;1.98
+Estonia ; Netherlands;0;4;A;33.31;10.43;1.09
+Hungary ; Slovakia;1;2;A;2.22;3.29;3.53
+Latvia ; North Macedonia;0;2;A;7.52;4.18;1.49
+Northern Ireland ; Germany;0;2;A;10.03;5.36;1.33
+Poland ; Austria;0;0;D;2.35;3.32;3.23
+Russia ; Kazakhstan;1;0;H;1.17;7.62;17.87
+San Marino ; Cyprus;0;4;A;34.78;11.26;1.09
+Scotland ; Belgium;0;4;A;8.1;4.61;1.43
+Slovenia ; Israel;3;2;H;1.72;3.69;5.41
+Azerbaijan ; Croatia;1;1;D;11.88;5.62;1.29
+Finland ; Italy;1;2;A;5.45;3.43;1.78
+Greece ; Liechtenstein;1;1;D;1.04;15.75;44.85
+Spain ; Faroe Islands;4;0;H;1.01;31.89;60.2
+Sweden ; Norway;1;1;D;1.9;3.51;4.45
+Georgia ; Denmark;0;0;D;7.47;4.6;1.44
+Romania ; Malta;1;0;H;1.04;17.69;59.58
+Switzerland ; Gibraltar;4;0;H;1.01;36.16;75.19
+Armenia ; Bosnia & Herzegovina;4;2;H;4.66;3.97;1.74
+France ; Albania;4;1;H;1.16;7.74;22.1
+Serbia ; Portugal;2;4;A;3.35;3.51;2.22
+Turkey ; Andorra;1;0;H;1.02;23.14;54.8
+England ; Bulgaria;4;0;H;1.1;10.65;29.77
+Iceland ; Moldova;3;0;H;1.24;6.12;14.09
+Lithuania ; Ukraine;0;3;A;14.23;5.75;1.25
+Kosovo ; Czech Republic;2;1;H;3.48;3.33;2.21
+Austria ; Latvia;6;0;H;1.06;14.27;36.74
+San Marino ; Belgium;0;4;A;114.36;37.21;1.01
+Scotland ; Russia;1;2;A;3.17;3.08;2.53
+Slovakia ; Croatia;0;4;A;3.15;3.19;2.46
+Slovenia ; Poland;2;0;H;3.77;3.17;2.19
+Wales ; Azerbaijan;2;1;H;1.24;5.82;15.39
+Spain ; Malta;7;0;H;1.01;32.8;71.57
+Switzerland ; Georgia;1;0;H;1.21;6.57;15.96
+Armenia ; Greece;0;1;A;3.67;3.44;2.1
+Finland ; Liechtenstein;3;0;H;1.07;12.72;33.1
+Norway ; Faroe Islands;4;0;H;1.11;9.66;29.04
+Albania ; Andorra;2;2;D;1.17;7.02;19.23
+Czech Republic ; Kosovo;2;1;H;1.6;4.12;5.7
+England ; Montenegro;7;0;H;1.06;14.3;39.98
+France ; Moldova;2;1;H;1.01;26.63;70.06
+Portugal ; Lithuania;6;0;H;1.02;21.97;60.02
+Serbia ; Luxembourg ;3;2;H;1.15;7.87;19.34
+Turkey ; Iceland;0;0;D;1.63;3.91;5.76
+Faroe Islands ; Malta;1;0;H;1.59;3.7;7.23
+Gibraltar ; Georgia;2;3;A;16.07;7.12;1.19
+Greece ; Bosnia & Herzegovina;2;1;H;3.62;3.29;2.17
+Israel ; Latvia;3;1;H;1.15;8.45;18.37
+Liechtenstein ; Italy;0;5;A;55.19;20.81;1.03
+Romania ; Norway;1;1;D;2.98;3.37;2.48
+Sweden ; Spain;1;1;D;5.06;3.62;1.78
+Switzerland ; Ireland;2;0;H;1.51;3.99;7.93
+Finland ; Armenia;3;0;H;1.56;4.16;6.5
+Bulgaria ; England;0;6;A;13.6;6.44;1.23
+France ; Turkey;1;1;D;1.43;4.47;8.82
+Iceland ; Andorra;2;0;H;1.07;13.37;33.48
+Kosovo ; Montenegro;2;0;H;1.56;3.94;6.82
+Lithuania ; Serbia;1;2;A;12.46;5.94;1.26
+Moldova ; Albania;0;4;A;5.57;3.18;1.84
+Ukraine ; Portugal;2;1;H;3.7;3.24;2.19
+Estonia ; Germany;0;3;A;46.13;18.11;1.03
+Poland ; North Macedonia;2;0;H;1.49;4.15;7.83
+Slovenia ; Austria;0;1;A;2.89;3.14;2.69
+Wales ; Croatia;1;1;D;3.44;3.2;2.3
+Belarus ; Netherlands;1;2;A;12.5;6.4;1.24
+Cyprus ; Russia;0;5;A;8.62;4.51;1.43
+Hungary ; Azerbaijan;1;0;H;1.33;5.1;10.45
+Scotland ; San Marino;6;0;H;1.01;28;72.83
+Kazakhstan ; Belgium;0;2;A;12.24;6.4;1.24
+Italy ; Greece;2;0;H;1.22;6.3;15.37
+Liechtenstein ; Armenia;1;1;D;16.01;6.46;1.21
+Malta ; Sweden;0;4;A;35.96;11.21;1.08
+Norway ; Spain;1;1;D;5.57;3.91;1.66
+Bosnia & Herzegovina ; Finland;4;1;H;2;3.25;4.32
+Denmark ; Switzerland;1;0;H;2.34;3.21;3.37
+Faroe Islands ; Romania;0;3;A;10.2;5.13;1.34
+Georgia ; Ireland;0;0;D;3.42;2.87;2.52
+Andorra ; Moldova;1;0;H;4.66;2.85;2.1
+Iceland ; France;0;1;A;6.95;4.12;1.54
+Montenegro ; Bulgaria;0;0;D;2.18;3.37;3.58
+Portugal ; Luxembourg;3;0;H;1.05;15.78;42.78
+Ukraine ; Lithuania;2;0;H;1.07;12.84;31.33
+Hungary ; Iceland ;2;1;H;2.18;3.11;3.84
+Northern Ireland ; Slovakia ;1;2 ;A;2.46;2.96;3.38
+Serbia ; Scotland ;1;2 ;A;1.81;3.42;5.12
+Georgia ; North Macedonia ;0;1;A;2.66;2.82;3.23
+Bosnia & Herzegovina ; Northern Ireland;1;2 ;A;1.68;3.69;5.86
+Bulgaria ; Hungary;1;3;A;3.32;3.02;2.45
+Iceland ; Romania;2;1;H;2.38;3.1;3.37
+North Macedonia ; Kosovo ;2;1;H;2.28;3.19;3.48
+Norway ; Serbia;1;2 ;A;2.15;3.36;3.62
+Scotland ; Israel ;1;0 ;A;2.33;3.28;3.27
+Slovakia ; Ireland ;1;0 ;A;3.63;3.06;2.35
+Georgia ; Belarus ;1;0;H;2.03;3.15;4.37
+Belgium ; Cyprus;6;1;H;1.02;22.59;67.46
+Germany ; Northern Ireland;6;1;H;1.1;10.23;28.74
+Latvia ; Austria;1;0;H;20.08;7.54;1.16
+Netherlands ; Estonia;5;0;H;1.02;24.13;71.73
+North Macedonia ; Israel;1;0;H;2.47;3.54;2.81
+Poland ; Slovenia;3;2;H;1.74;3.66;5.26
+San Marino ; Russia;0;5;A;83.05;36.91;1
+Scotland ; Kazakhstan;3;1;H;1.56;4.07;6.41
+Slovakia ; Azerbaijan;2;0;H;1.19;6.83;17.81
+Wales ; Hungary;2;0;H;1.54;4.25;6.5
+Gibraltar ; Switzerland;1;6;A;60.25;26.96;1.01
+Greece ; Finland;2;1;H;1.84;3.48;4.78
+Ireland ; Denmark;1;1;D;3.08;3.12;2.54
+Italy ; Armenia;9;1;H;1.09;10.38;30.7
+Liechtenstein ; Bosnia & Herzegovina;0;3;A;20.47;8.34;1.14
+Malta ; Norway;1;2;A;29.44;9.85;1.1
+Spain ; Romania;5;0;H;1.17;7.61;16.74
+Sweden ; Faroe Islands;3;0;H;1.11;9.19;28.27
+Albania ; France;0;2;A;7.97;4.57;1.43
+Andorra ; Turkey;0;2;A;15.86;7.27;1.18
+Moldova ; Iceland;1;2;A;8.63;4.31;1.44
+Bulgaria ; Czech Republic ;1;0;H;4.68;3.93;1.74
+Kosovo ; England;0;4;A;7.51;5.09;1.41
+Luxembourg ; Portugal;0;2;A;36.42;11.71;1.08
+Serbia ; Ukraine ;2;2;D;2.12;3.55;3.52
+Austria ; North Macedonia;2;1;H;1.23;6.58;13.82
+Croatia ; Slovakia;3;1;H;1.46;4.48;7.54
+Germany ; Belarus;4;0;H;1.05;14.83;42.02
+Israel ; Poland;1;2;A;2.82;3.43;2.55
+Northern Ireland ; Netherlands;0;0;D;7.34;4.22;1.5
+Azerbaijan ; Wales;0;2;A;7.25;3.91;1.54
+Russia ; Belgium;1;4;A;3.35;3.75;2.13
+San Marino ; Kazakhstan;1;3;A;36.71;12.07;1.07
+Slovenia ; Latvia;1;0;H;1.09;10.28;33.73
+Cyprus ; Scotland;1;2;A;3.37;3.31;2.26
+Bosnia & Herzegovina ; Italy;0;3;A;3.74;3.66;2.01
+Denmark ; Gibraltar;6;0;H;1;36.47;81.13
+Romania ; Sweden;0;2;A;2.75;3.27;2.74
+Belgium ; Wales ;3;1;H;1.36;4.98;9.7
+Cyprus ; Slovakia ;0;0;D;4.65;3.36;1.89
+Estonia ; Czech Republic ;2;6;A;35.82;14.35;1.05
+Finland ; Bosnia & Herzegovina ;2;2;D;2.83;3.17;2.69
+France ; Ukraine ;1;1;D;1.28;5.69;11.3
+Gibraltar ; Norway ;0;3;A;63.08;25.33;1.01
+Latvia ; Montenegro ;1;2;A;6.11;3.33;1.72
+Malta ; Russia ;1;3;A;27.08;9.74;1.11
+Portugal ; Azerbaijan ;1;0;H;1.03;17.69;48.52
+Serbia ; Ireland ;3;2;H;1.94;3.2;4.66
+Slovenia ; Croatia ;1;0;H;5.05;3.49;1.79
+Turkey ; Netherlands ;4;2;H;5.14;3.78;1.71
+Andorra ; Albania ;0;1;A;11.92;5.1;1.3
+England ; San Marino ;5;0;H;1;35.41;87.88
+Germany ; Iceland ;3;0;H;1.13;9.21;19.12
+Hungary ; Poland ;3;3;D;4;3.25;2.06
+Italy ; Northern Ireland ;2;0;H;1.17;7.12;20.8
+Liechtenstein ; Armenia ;0;1;A;10.9;5.12;1.32
+Moldova ; Faroe Islands ;1;1;D;2.49;2.89;3.38
+Romania ; North Macedonia ;3;2;H;2.08;3.2;3.98
+Scotland ; Austria ;2;2;D;3.07;3.1;2.55
+Spain ; Greece ;1;1;D;1.22;6.51;14.07
+Sweden ; Georgia ;1;0;H;1.33;5.11;10.93
+Bulgaria ; Switzerland ;1;3;A;9.38;4.5;1.4
+Israel ; Denmark ;0;2;A;4.87;3.59;1.79
+Czech Republic ; Belgium ;1;1;D;5.44;4.05;1.63
+Ireland ; Luxembourg ;0;1;A;1.55;3.97;6.69
+Serbia ; Portugal ;2;2;D;5.05;3.78;1.72
+Slovakia ; Malta ;2;2;D;1.21;6.49;15.77
+Belarus ; Estonia ;4;2;H;1.45;4.54;7.5
+Croatia ; Cyprus ;1;0;H;1.13;8.89;22.13
+Netherlands ; Latvia ;2;0;H;1.02;21.35;47.54
+Norway ; Turkey ;0;3;A;2.16;3.37;3.55
+Montenegro ; Gibraltar ;4;1;H;1.07;12.25;34.35
+Russia ; Slovenia ;2;1;H;1.89;3.3;4.79
+Belgium ; Belarus ;8;0;H;1.13;8.77;23.91
+Croatia ; Malta ;3;0;H;1.07;12.34;36.51
+Gibraltar ; Netherlands ;0;7;A;72.58;30.33;1.01
+Luxembourg ; Portugal ;1;3;A;23.56;9.23;1.12
+Montenegro ; Norway ;0;1;A;4.43;3.51;1.88
+Slovakia ; Russia ;2;1;H;4.62;3.38;1.89
+Turkey ; Latvia ;3;3;D;1.15;8.22;19.7
+Wales ; Czech Republic ;1;0;H;3.29;3.22;2.34
+Saudi Arabia ; Palestine ;5;0;H;1.37;4.51;8.73
+Azerbaijan ; Serbia ;1;2;A;9.12;4.57;1.39
+Cyprus ; Slovenia ;1;0;H;4.82;3.29;1.88
+Austria ; Faroe Islands ;3;1;H;1.08;11.12;30.39
+Bulgaria ; Italy ;0;2;A;14.08;6.25;1.23
+Israel ; Scotland ;1;1;D;2.75;3.16;2.75
+Kosovo ; Sweden ;0;3;A;5.55;3.7;1.68
+North Macedonia ; Liechtenstein ;5;0;H;1.08;10.98;33.18
+Poland ; Andorra ;3;0;H;1.01;21.15;66.05
+Romania ; Germany ;0;1;A;10.16;5.88;1.29
+San Marino ; Hungary ;0;3;A;60.31;18.19;1.02
+Switzerland ; Lithuania ;1;0;H;1.07;12.76;35.98
+Ukraine ; Finland ;1;1;D;1.76;3.47;5.4
+Albania ; England ;0;2;A;13.62;6.06;1.24
+Armenia ; Iceland ;2;0;H;3.82;3.18;2.15
+Denmark ; Moldova ;8;0;H;1.1;10.51;24.73
+Georgia ; Spain ;1;2;A;16.6;6.84;1.2
+Kazakhstan ; France ;0;2;A;30.65;10.56;1.09
